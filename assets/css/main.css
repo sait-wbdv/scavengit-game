@@ -12,6 +12,10 @@ img {
   max-width: 50%;
 }
 
+img:hover {
+  opacity: .5;
+}
+
 body {
   text-align: center;
 }
