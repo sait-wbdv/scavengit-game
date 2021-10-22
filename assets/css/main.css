@@ -7,3 +7,11 @@ ul {
   font-size: 1.5em;
   list-style-type: none;
 }
+
+img {
+  max-width: 50%;
+}
+
+body {
+  text-align: center;
+}
