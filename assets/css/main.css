@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  font-size: 3em;
+  font-style: italic;
+}
+ul {
+  font-size: 1.5em;
+  list-style-type: none;
+}
+
+img {
+  max-width: 50%;
+}
+
+body {
+  text-align: center;
+}

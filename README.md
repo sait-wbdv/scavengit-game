@@ -6,15 +6,15 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 (Include name as a link to the person's github repo)
 
-- Maintainer:
-- Collaborator:
-- Contributor:
+- Maintainer: Fesal
+- Collaborator: Devon
+- Contributor: Robin
 
 ## Rules
 
-1.
-2.
-3.
+1. Pushing - try not to have broken code when pushing. Indentation should be 2 spaces.
+2. Sections/articles should have headers.
+3. Links should not be broken and should lead to the relative image.
 
 ---
 
