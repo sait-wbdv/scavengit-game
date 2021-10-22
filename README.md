@@ -6,7 +6,11 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 (Include name as a link to the person's github repo)
 
+<<<<<<< HEAD
 - Maintainer: Ashlyn Knox
+=======
+- Maintainer: Scooby Do
+>>>>>>> 7c355f713ee32191f06d91f106252a7003f9b54f
 - Collaborator:
 - Contributor:
 
