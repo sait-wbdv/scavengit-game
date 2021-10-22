@@ -12,9 +12,9 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 ## Rules
 
-1.
-2.
-3.
+1. Be respectful
+2. Comment your code well
+3. Take advil
 
 ---
 
