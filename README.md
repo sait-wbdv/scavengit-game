@@ -8,7 +8,7 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 - Maintainer: Fesal
 - Collaborator: Devon
-- Contributor: Robyn
+- Contributor: Robin
 
 ## Rules
 
