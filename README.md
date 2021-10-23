@@ -1,13 +1,23 @@
-# scavengit-game
+# scavengit-game - 66 commits
 
 A game for learning collaborative git. This is a co-op game meant for 2-4 player teams. It has 3 levels of difficulty and covers all content for CPNT-201 git.
+
+---
+
+**Author :** Fesal Badday
+
+**Repo :** [Github Repo](https://github.com/FesalBadday/cpnt201-a4)
+
+**Site :** [Github Pages](https://FesalBadday.github.io/cpnt201-a4)
+
+---
 
 ## Team Members
 
 (Include name as a link to the person's github repo)
 
-- Maintainer: Fesal
-- Collaborator: Devon
+- Maintainer: [Fesal](https://github.com/FesalBadday)
+- Collaborator: [Devon](https://github.com/Nephy1)
 - Contributor: Robin
 
 ## Rules
@@ -17,6 +27,10 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 3. Links should not be broken and should lead to the relative image.
 
 ---
+
+## Coding Attributions
+- [Devon](https://github.com/Nephy1)
+
 
 ## Image Attributions
 
