@@ -1,0 +1,23 @@
+{
+  "name": "scavengit-game",
+  "version": "1.0.0",
+  "description": "A game for learning collaborative git. This is a co-op game meant for 2-4 player teams. It has 3 levels of difficulty and covers all content for CPNT-201 git.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sait-wbdv/scavengit-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sait-wbdv/scavengit-game/issues"
+  },
+  "homepage": "https://github.com/sait-wbdv/scavengit-game#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.17"
+  }
+}
