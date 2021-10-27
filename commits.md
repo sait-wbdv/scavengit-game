@@ -1,4 +1,4 @@
-# 68 commits
+# 11 commits
 
 ## Commits Made On My Repo:
 
@@ -14,6 +14,7 @@
 ### Pull Request Commits:
 
 - Merge pull request [#1](https://github.com/FesalBadday/cpnt201-a4/pull/1) from Nephy1/main [0ff6e53](https://github.com/FesalBadday/cpnt201-a4/commit/0ff6e53b6580b481365a0789a5f8db7db36b2637)
+- Merge pull request [#6](https://github.com/FesalBadday/cpnt201-a4/pull/6) from compsigh-url/main [f01a2da](https://github.com/FesalBadday/cpnt201-a4/commit/f01a2da137819be4f65a200e961a024284bed895)
 
 ### Resolved Merge Conflict Commit
 
@@ -35,3 +36,20 @@
 ### Pull Request Commits:
 
 - Merge pull request [#1](https://github.com/Nephy1/cpnt-201-a4-devon/pull/1) from FesalBadday/main [5a4f908](https://github.com/Nephy1/cpnt-201-a4-devon/commit/5a4f9080347e8fc1df218ce7ab30ce07c7e6e2a1)
+
+---
+
+## Commits Made On Robin's Repo:
+
+
+### HTML Commits:
+
+- updated page title [8df399b](https://github.com/compsigh-url/cpnt201-a4/commit/8df399bb1fe2cce66f001b52318ec8b3bcb6320e)
+
+### CSS Commits:
+
+- updated color for a:hover [490a758](https://github.com/compsigh-url/cpnt201-a4/commit/490a7589bc825d6d20b6046482feaa16fac7d1ee)
+
+### Pull Request Commits:
+
+- Merge pull request [#1](https://github.com/compsigh-url/cpnt201-a4/pull/1) from FesalBadday/main [57ddd81](https://github.com/compsigh-url/cpnt201-a4/commit/57ddd81ffe4c65d8abeb97047b2d60712f865edc)
