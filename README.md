@@ -18,7 +18,7 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 - Maintainer: [Fesal](https://github.com/FesalBadday)
 - Collaborator: [Devon](https://github.com/Nephy1)
-- Contributor: Robin
+- Contributor: [Robin](https://github.com/compsigh-url)
 
 ## Rules
 
@@ -30,6 +30,7 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 ## Coding Attributions
 - [Devon](https://github.com/Nephy1)
+- [Robin](https://github.com/compsigh-url)
 
 
 ## Image Attributions
