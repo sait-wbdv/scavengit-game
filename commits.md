@@ -1,6 +1,6 @@
 # 11 commits
 
-## Commits Made On My Repo:
+## Commits Made On My [Repo](https://github.com/FesalBadday/cpnt201-a4):
 
 
 ### HTML Commits:
@@ -22,7 +22,7 @@
 
 ---
 
-## Commits Made On Devon's Repo:
+## Commits Made On Devon's [Repo](https://github.com/Nephy1/cpnt-201-a4-devon):
 
 
 ### HTML Commits:
@@ -39,7 +39,7 @@
 
 ---
 
-## Commits Made On Robin's Repo:
+## Commits Made On Robin's [Repo](https://github.com/compsigh-url/cpnt201-a4):
 
 
 ### HTML Commits:
