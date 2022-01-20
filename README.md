@@ -6,9 +6,9 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 **Author :** Fesal Badday
 
-**Repo :** [Github Repo](https://github.com/FesalBadday/cpnt201-a4)
+**Repo :** [Github Repo](https://github.com/FesalBadday/scavengit-game)
 
-**Site :** [Github Pages](https://FesalBadday.github.io/cpnt201-a4)
+**Site :** [Github Pages](https://FesalBadday.github.io/scavengit-game)
 
 ---
 
